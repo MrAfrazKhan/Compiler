@@ -5,5 +5,5 @@
 >* **INTEGERS**: All integers including fractions, Exponents
 >* **KEYWORDS**: if, do, not, else, end, program, function ,while ,then, var, procedure, of, begin, array,integer
 >* **RELATIONAL OPERATORS**: =, >, <, >=, <=, <>
->* **COMMENTS**:
+>* **COMMENTS**
 >* **WHITE SPACES,  BLANKS, NEWLINE** 
