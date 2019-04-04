@@ -1,6 +1,6 @@
 ['KEYWORD', 'var']
 ['IDENTIFIER', 'me']
-['OPERATOR', 'EQ']
+['OPERATOR', 'EQ'] 
 ['NUM', '12']
 ['KEYWORD', 'if']
 ['IDENTIFIER', 'l']
