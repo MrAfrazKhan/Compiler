@@ -8,5 +8,5 @@
 >* **COMMENTS**: recognized with "**{**" as start & "**}**" as end of comments.
 >* **WHITE SPACES,  BLANKS, NEWLINE** 
 
-## Method
-#### insert your input source code in **"input.txt"** & then result generated in the form of tokens will be saved in **"result.txt"**
+## Method:
+Insert your input source code in **"input.txt"** & then result generated in the form of tokens will be saved in **"result.txt"**.
