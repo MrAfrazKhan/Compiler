@@ -1,0 +1,5 @@
+['KEYWORD', 'if']
+['IDENTIFIER', 'm']
+['OPERATOR', 'EQ']
+['OPERATOR', 'EQ']
+['NUM', '2']
