@@ -1,2 +1,11 @@
 # Non Recursive Predictive Parsing :cyclone:
-##### Put grammar to be Analyzed in **"Grammar.txt"** & then put input string in **"Input.txt"**. New Grammar without Left Factoring & Left Recursion would be shown on console. 
+#### This Program will assert that a given Input String is Parsable from the given Grammar or not ? 
+
+## Specifications
+	
+* __*Grammar Used*__
+ 
+ 	E > E + T / T
+    T > T * F / F
+    F > (E) / id
+    
