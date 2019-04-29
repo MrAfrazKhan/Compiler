@@ -5,7 +5,7 @@
 	
 * __*Grammar Used*__
  
- 	E > E + T / T
-    T > T * F / F
+    ```E > E + T / T  
+    T > T * F / F  
     F > (E) / id
     
