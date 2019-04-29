@@ -28,4 +28,4 @@
 **1.** Input String  
 **2.** __*Parse Table*__  
 **3.** All Stack operations to maintain the productions for __*Parse Tree*__  
-**4.** All __*Productions*__ which construct Parse Tree collectively.
+**4.** All __*Productions*__ which construct Parse Tree collectively. 
